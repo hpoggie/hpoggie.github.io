@@ -16,8 +16,7 @@
 title: hpoggie.github.io
 email: henry.poggie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Hello. I'm Henry Poggie, a computer science student at Purdue University.
-    I make games. This is my website.
+    CS, gamedev, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: hpoggie
