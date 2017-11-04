@@ -1,3 +1,4 @@
 I'm Henry Poggie, a Computer Science student at Purdue University. I'm
 interested in graphics, systems programming, networking, and game
-development.
+development. You can view my projects at <a
+href=https://github.com/hpoggie>github.com/hpoggie</a>.
