@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+	<header class="splash-title">
+		<h1>
+			<img src="assets/tree.svg" style="max-width: 500px; margin-left:auto; margin-right: auto">
+			<small>{{ site.tagline }}</small>
+		</h1>
+	</header>
+
+	<div class="container content">
+	  <main>
+		{{ content }}
+	  </main>
+
+	  <footer class="footer">
+		<small>
+		  &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+		</small>
+	  </footer>
+	</div>
+  </body>
+</html>
