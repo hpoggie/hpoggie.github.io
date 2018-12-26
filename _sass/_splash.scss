@@ -1,26 +1,13 @@
 .splash-title {
-	height: 100vh;
-
-	background: #000;
-	background-image: url("assets/heptagram.svg");
-	background-repeat: no-repeat;
-	background-position: center;
-	//background-size: 120rem;
-	background-size: 115%;
-	//background-size: 100% 100%;
-	background-opacity: 50%;
-
-	// Make the text white
 	h1 {
 		font-size: 3rem;
 		font-family: "Cinzel Decorative";
 		text-align: center;
 		word-wrap: break-word;
-		padding-top: 30vh;
+		padding-top: 15vh;
 		//padding: 5%;
 		margin: 0;
 		//padding: 15vh;
-		color: #fff;
 	}
 
 	// Small text below the page title
