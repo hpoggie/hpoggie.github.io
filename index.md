@@ -7,7 +7,7 @@ layout: splash
 I'm a computer science student at Purdue University and simulations programmer
 at Purdue's Envision Center for Data Perceptualization.
 
-[Email](henry.poggie@gmail.com) · [github](https://github.com/hpoggie) · [LinkedIn](https://www.linkedin.com/in/hpoggie/)
+[Email](mailto:henry.poggie@gmail.com) · [github](https://github.com/hpoggie) · [LinkedIn](https://www.linkedin.com/in/hpoggie/)
 
 # Projects
 
