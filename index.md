@@ -29,6 +29,16 @@ as long as possible before your computer runs out of RAM. No, that's not a
 joke; the enemies allocate a 4k texture every time they spawn. __I strongly
 recommend saving your work and closing all other applications before playing.__
 
+## Lost in Transmission
+
+![]({{site.url}}/assets/screen4.png)
+
+A game made with a team for [Global Game Jam
+2018](https://globalgamejam.org/2018/games/lit-lost-transmission-0) where you
+have to listen to a numbers station to get the codes you need to turn on
+generators while avoiding enemy robots. I did the audio as well as some of the
+programming.
+
 ## Bad Fanfic Finder
 
 ![]({{site.url}}/assets/screen3.png)
