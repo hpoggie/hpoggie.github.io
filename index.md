@@ -19,6 +19,17 @@ as you get closer to losing, and you must play cards face-down before you can
 use them on your next turn. It has [its own
 website](https://underlordcg.github.io).
 
+## Bad Fanfic Finder
+
+![]({{site.url}}/assets/screen3.png)
+
+This script attempts to find the worst possible fanfiction from fanfiction.net
+by searching for keywords that are likely to indicate low quality writing (such
+as common typos). You can find it
+[here](https://github.com/hpoggie/bad_fanfic_finder).
+
+# Game Jams
+
 ## G\*\*gle Chr\*me
 
 ![]({{site.url}}/assets/screen2.png)
@@ -38,12 +49,3 @@ A game made with a team for [Global Game Jam
 have to listen to a numbers station to get the codes you need to turn on
 generators while avoiding enemy robots. I did the audio as well as some of the
 programming.
-
-## Bad Fanfic Finder
-
-![]({{site.url}}/assets/screen3.png)
-
-This script attempts to find the worst possible fanfiction from fanfiction.net
-by searching for keywords that are likely to indicate low quality writing (such
-as common typos). You can find it
-[here](https://github.com/hpoggie/bad_fanfic_finder).
