@@ -16,6 +16,8 @@
 title: Henry Poggie
 tagline: Personal Website & Portfolio
 email: henry.poggie@gmail.com
+linkedin: https://linkedin.com/in/hpoggie
+github: https://github.com/hpoggie
 description: >- # this means to ignore newlines until "baseurl:"
     Computer Science Student · Simulations Programmer
 baseurl: "" # the subpath of your site, e.g. /blog
