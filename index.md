@@ -5,7 +5,11 @@ layout: splash
 # About me
 
 I'm a computer science student at Purdue University and simulations programmer
-at Purdue's Envision Center for Data Perceptualization.
+at Purdue's Envision Center for Data Perceptualization. My areas of interest
+include game development, networking, and security. My main tools of choice are
+Unity (or sometimes panda3d) for game development and Python for everything
+else. Below are some of my personal projects as well as games I've worked on
+for game jams.
 
 # Projects
 
