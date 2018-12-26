@@ -28,3 +28,12 @@ A top-down action game made for [Ludum Dare
 as long as possible before your computer runs out of RAM. No, that's not a
 joke; the enemies allocate a 4k texture every time they spawn. __I strongly
 recommend saving your work and closing all other applications before playing.__
+
+## Bad Fanfic Finder
+
+![]({{site.url}}/assets/screen3.png)
+
+This script attempts to find the worst possible fanfiction from fanfiction.net
+by searching for keywords that are likely to indicate low quality writing (such
+as common typos). You can find it
+[here](https://github.com/hpoggie/bad_fanfic_finder).
