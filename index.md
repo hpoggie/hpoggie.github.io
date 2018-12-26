@@ -19,13 +19,6 @@ as you get closer to losing, and you must play cards face-down before you can
 use them on your next turn. It has [its own
 website](https://underlordcg.github.io).
 
-## Faux Farmer
-
-A farming game without your own land, made for [Game Maker's Toolkit Game Jam
-2018](https://itch.io/jam/gmtk-2018). You play as a farmer who plants his crops
-on other people's property.  The goal of the game is to earn as much money as
-possible from harvesting plants before the cops arrest you for vandalism.
-
 ## G\*\*gle Chr\*me
 
 ![]({{site.url}}/assets/screen2.png)
