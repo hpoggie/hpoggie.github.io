@@ -15,7 +15,7 @@ for game jams.
 
 ## Underlord
 
-![]({{site.url}}/assets/screen1.png)
+![]({{site.url}}/assets/screen5.png)
 
 Underlord is an open source online wizard battling card game, inspired by games
 like Magic: the Gathering and Hearthstone. In Underlord, you get more resources
