@@ -23,15 +23,6 @@ as you get closer to losing, and you must play cards face-down before you can
 use them on your next turn. It has [its own
 website](https://underlordcg.github.io).
 
-## Bad Fanfic Finder
-
-![]({{site.url}}/assets/screen3.png)
-
-This script attempts to find the worst possible fanfiction from fanfiction.net
-by searching for keywords that are likely to indicate low quality writing (such
-as common typos). You can find it
-[here](https://github.com/hpoggie/bad_fanfic_finder).
-
 # Game Jams
 
 ## G\*\*gle Chr\*me
