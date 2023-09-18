@@ -4,14 +4,33 @@ layout: splash
 
 # About me
 
-I'm a simulations programmer at Purdue University's Envision Center for Data
-Perceptualization. I recently got my BS in Computer Science from purdue and I'm
-looking for full time work. My main interests are game development, networking,
-and security. I mostly use Unity (or sometimes panda3d) for game development and
-Python for everything else. Below are some of my personal projects as well as
-games I've worked on for game jams.
+Hello! I'm Henry. I program video games for a living. I used to work for
+[Volition](https://en.wikipedia.org/wiki/Volition_(company)), the company that
+made Saints Row.  Before that, I worked at Purdue University's [Envision
+Center](https://www.ecshowcase.com/).  Unfortunately Volition shut down
+recently, so I'm looking for full time work. I have experience with Unity, C++,
+Python, and a little bit of Unreal and Godot.
 
-# Projects
+Here are some things I've worked on:
+
+# Games I've worked on
+
+## Saints Row (2022)
+
+![]({{site.url}}/assets/SR_FactionWallpaper_Saints_4K.png)
+
+Official website: [https://saintsrow.com/](https://saintsrow.com/)
+
+On this project I worked on the Open World Gameplay team, which made most of the
+non-mission gameplay, like side hustles and criminal ventures.
+
+## Saints Row DLC
+
+![]({{site.url}}/assets/PC_Digital_KeyArt_16x9_Master_RGB_041223.jpg)
+
+For the Saints Row 2022 DLC I worked on post-release support as well as the Kaijuice Wingsuit Challenge activity in the Heist and the Hazardous pack.
+
+# Personal Projects
 
 ## Underlord
 
